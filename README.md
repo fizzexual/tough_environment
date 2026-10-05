@@ -1,3 +1,5 @@
+# Tough Environment 🍂
+
 In Tough Environment, Minecraft becomes a true survival challenge. Forget the ease of crafting wooden tools and quickly mining; this mod removes wooden tools entirely and alters stone tool recipes, demanding more strategic effort from players.
 
 At the start, your only mining tools are wooden and stone chisels. The wooden chisel helps you gather small stones, which can be crafted into sharp stones (stone chisels). Stone tools now require string to craft, and using lesser tools results in stone blocks breaking in layers. The stone chisel, faster and more durable than its wooden counterpart, lets you collect more rocks and obtain lesser drops from ores like coal and iron, which appear as dust. These dusts must be combined to form ore chunks.
@@ -5,6 +7,14 @@ At the start, your only mining tools are wooden and stone chisels. The wooden ch
 Additionally, all loose blocks have slab alternatives, and blocks like dirt, sand, and gravel break into piles if harvested with improper tools. Gravity affects these loose blocks, but the new "Mortaring" mechanic lets you hold stone blocks in place.
 
 Tough Environment adds a layer of complexity, making resource gathering and construction more demanding and rewarding, transforming your Minecraft experience into a test of skill and strategy.
+
+## About
+
+Tough Environment is a Fabric mod for Minecraft 1.21.1, written by ivangeevo for the BTWR-Team, that
+makes early-game survival slower and harder (no wooden tools, chisels, loose blocks, ore chunks). It is
+for players who want a more demanding survival progression and pairs with the team's other BTWR mods
+(it requires `btwr_sl`). This repository is a fork of
+[BTWR-Team/tough_environment](https://github.com/BTWR-Team/tough_environment); the mod is in beta (v0.2).
 
 ## Full List of Features:
 ### Added:
